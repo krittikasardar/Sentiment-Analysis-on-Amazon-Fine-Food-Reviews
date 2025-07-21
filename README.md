@@ -56,11 +56,11 @@ This project performs sentiment analysis on the Amazon Fine Food Reviews dataset
 
 # Key Findings
 
-DistilBERT delivered the best overall performance, especially on positive and neutral sentiments
+DistilBERT delivered the best overall performance, especially on positive and neutral sentiments.
 
-TF-IDF worked best with traditional models, while LSTM and transformers benefitted from dense embeddings
+TF-IDF worked best with traditional models, while LSTM and transformers benefitted from dense embeddings.
 
-Class balancing significantly impacted model performance
+Class balancing significantly impacted model performance.
 
 # Future Scope
 
