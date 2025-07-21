@@ -1,5 +1,7 @@
 # Sentiment-Analysis-on-Amazon-Fine-Food-Reviews
 
+The uploaded code includes model implementations and feature engineering workflows based on both TF-IDF and Word2Vec representations.
+
 # Project Overview
 
 This project performs sentiment analysis on the Amazon Fine Food Reviews dataset using a combination of traditional machine learning, deep learning, and transformer-based models. The objective is to classify reviews as Positive, Neutral, or Negative, leveraging various NLP techniques and web mining methods to analyze large-scale consumer feedback.
